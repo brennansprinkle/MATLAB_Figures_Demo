@@ -1,6 +1,6 @@
 # MATLAB_Figures_Demo
 
-The file `basic_plotting.m 
+The file `basic_plotting.m` 
 slowly adds ideas to an initally bad plot to eventually make it:
 - colorsafe 
 - easily readible 
